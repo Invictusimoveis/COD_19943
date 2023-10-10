@@ -1,0 +1,24 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_19CDD170_15F3_2B1A_419F_D67F7E15F518.label = Acesso a cozinha
+panorama_1F4924F7_15F3_2906_41A0_73644A5D8BF8.label = Acesso aos quartos
+panorama_1F4B5AF9_15F2_F90A_4194_A6E7AB67E11B.label = Acesso aos quartos_
+panorama_1F4E3059_15F5_690B_413D_7668FA20D9CC.label = Cozinha
+panorama_1F4E7738_15F5_370A_41B0_DBC98EA273E8.label = Quarto 1
+panorama_1F4DA9F9_15F5_DB0A_41A7_12281A9A0786.label = Quarto 2
+panorama_1F4E8EC9_15F5_F90B_41B0_93C868F0B539.label = Quarto 2_sacada
+panorama_1F4E06B6_15F5_2919_41B3_F933B4D2F9C4.label = Sala_
+panorama_1F4FC23F_15F5_2906_41B3_C5B15FD4B6BA.label = Suíte 1
+panorama_1F4ECB54_15F5_7F1A_41AD_17E90F0BC7B8.label = Suíte 1 Sacada_suíte 2
+panorama_1F4A9F05_15F2_D8FA_417A_DDC1B6977219.label = Área de serviço
+panorama_1F4E7985_15F5_5BFA_41A3_D60A431D28F3.label = Área de serviço_
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 10
